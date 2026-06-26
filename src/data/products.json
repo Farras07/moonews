@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "AuraSync Wireless Earbuds",
+    "description": "True wireless earbuds with active noise cancellation and a 24-hour charging case.",
+    "price": 89.99,
+    "category": "Audio",
+    "stock": 150,
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "name": "NovaFit Smartwatch",
+    "description": "Fitness tracking smartwatch with heart rate monitor, GPS, and waterproof design.",
+    "price": 129.50,
+    "category": "Wearables",
+    "stock": 85,
+    "rating": 4.7
+  },
+  {
+    "id": 3,
+    "name": "ClickPro Mechanical Keyboard",
+    "description": "Tenkeyless mechanical keyboard with RGB backlighting and tactile blue switches.",
+    "price": 75.00,
+    "category": "Peripherals",
+    "stock": 200,
+    "rating": 4.8
+  },
+  {
+    "id": 4,
+    "name": "VisionPlus 27-inch 4K Monitor",
+    "description": "Ultra HD IPS monitor with ultra-thin bezels and color-accurate display.",
+    "price": 349.99,
+    "category": "Displays",
+    "stock": 42,
+    "rating": 4.6
+  },
+  {
+    "id": 5,
+    "name": "ChargeMax 20000mAh Power Bank",
+    "description": "High-capacity portable charger with dual USB-C fast charging ports.",
+    "price": 45.99,
+    "category": "Accessories",
+    "stock": 310,
+    "rating": 4.9
+  },
+  {
+    "id": 6,
+    "name": "Zenith Noise-Canceling Headphones",
+    "description": "Over-ear bluetooth headphones with premium memory foam ear pads and studio sound.",
+    "price": 199.00,
+    "category": "Audio",
+    "stock": 64,
+    "rating": 4.4
+  },
+  {
+    "id": 7,
+    "name": "LinkPort 8-in-1 USB-C Hub",
+    "description": "Multiport adapter featuring HDMI, SD card reader, ethernet, and power delivery.",
+    "price": 39.95,
+    "category": "Accessories",
+    "stock": 120,
+    "rating": 4.3
+  },
+  {
+    "id": 8,
+    "name": "ErgoGrip Wireless Mouse",
+    "description": "Vertical ergonomic mouse designed to reduce wrist strain during long working hours.",
+    "price": 29.99,
+    "category": "Peripherals",
+    "stock": 175,
+    "rating": 4.5
+  },
+  {
+    "id": 9,
+    "name": "StreamPro 1080p Webcam",
+    "description": "High-definition web camera with built-in dual noise-reducing microphones.",
+    "price": 55.00,
+    "category": "Peripherals",
+    "stock": 90,
+    "rating": 4.2
+  },
+  {
+    "id": 10,
+    "name": "EchoBeat Bluetooth Speaker",
+    "description": "Compact, waterproof portable speaker with 360-degree sound and 12-hour playtime.",
+    "price": 49.99,
+    "category": "Audio",
+    "stock": 250,
+    "rating": 4.7
+  }
+]

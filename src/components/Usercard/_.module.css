@@ -1,0 +1,81 @@
+/* Content & Typography */
+.content {
+    width: 100%;
+    text-align: center;
+}
+
+.name {
+    font-family: var(--font-jakarta-sans), sans-serif;
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: var(--foreground);
+    margin-bottom: 0.25rem;
+}
+
+.username {
+    font-family: var(--font-jakarta-sans), sans-serif;
+    font-size: 0.875rem;
+    color: #9ca3af;
+    margin-bottom: 1.25rem;
+}
+
+.infoRow {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.35rem;
+    margin-bottom: 1.25rem;
+    color: #9ca3af;
+}
+
+.infoIcon {
+    font-size: 1.1rem;
+    color: #ef4444;
+}
+
+.infoText {
+    font-family: var(--font-jakarta-sans), sans-serif;
+    font-size: 0.875rem;
+}
+
+.details {
+    display: flex;
+    justify-content: space-between;
+    border-top: 1px solid rgba(255, 255, 255, 0.08);
+    padding-top: 1rem;
+    font-family: var(--font-jakarta-sans), sans-serif;
+    text-align: left;
+    font-size: 0.75rem;
+    gap: 1rem;
+}
+
+.company,
+.social,
+.email,
+.phone {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    overflow: hidden;
+}
+
+.label {
+    color: #6b7280;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-weight: 500;
+    margin-bottom: 0.25rem;
+}
+
+.value {
+    color: var(--foreground);
+    font-weight: 500;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.link:hover {
+    color: #60a5fa;
+    text-decoration: underline;
+}

@@ -1,0 +1,15 @@
+.articleDetail{
+    width: 100%;
+    padding: .6rem 0;
+}
+.author{
+    color: #6b7280;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-weight: 500;
+    margin-bottom: 0.25rem;
+}
+.bodyNews{
+    border-top: 1px solid rgba(255, 255, 255, 0.08);
+    padding-top: 1rem;
+}

@@ -1,0 +1,16 @@
+.container {
+    width: 100vw;
+    min-height: 100vh;
+    background-color: var(--background);
+    color: var(--foreground);
+    display: flex;
+    flex-direction: column;
+}
+
+.contentWrapper {
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 2.5rem 1.5rem;
+    flex: 1;
+}
