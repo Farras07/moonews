@@ -6,6 +6,7 @@ A simple web application built with **Next.js App Router** demonstrating Static 
 
 ## 📸 Demo, web & Screenshots
 Web: https://moonewsapp.vercel.app/
+
 Live Demo: https://drive.google.com/file/d/1M9AT1EbK4GFIwLsbP7Ffhl__owkQJ8C7/view?usp=sharing
 
 ![Home](public/image.png)
