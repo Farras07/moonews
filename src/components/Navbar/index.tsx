@@ -2,7 +2,7 @@
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import Typography from "../Typography";
-import style from "@/components/navbar/_.module.css";
+import style from "./_.module.css";
 
 import {
   navigation as navItems,
